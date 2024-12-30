@@ -1,0 +1,169 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6da9b993-263f-4e54-b2de-d6302577eb7d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 106.68 146.05)
+		(size 39.37 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "11e4d01a-adc0-4a17-be12-5316f0c1df3a")
+		(property "Sheetname" "FPGA_Bank_34_35"
+			(at 106.68 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_Bank_34_35.kicad_sch"
+			(at 106.68 182.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Champ2" ""
+			(at 106.68 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Flex_FPGA_Learning_and_Experimentation_Board"
+				(path "/d63828a1-e60f-4761-bf4b-7d9d4ca8a642/cfbd67c6-4a48-4c5a-a615-b9b202771a62"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 38.1)
+		(size 45.72 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5866716e-66c5-4643-8de4-7dc2b0b6d75c")
+		(property "Sheetname" "FPGA_Power"
+			(at 21.59 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_Power.kicad_sch"
+			(at 21.59 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex_FPGA_Learning_and_Experimentation_Board"
+				(path "/d63828a1-e60f-4761-bf4b-7d9d4ca8a642/cfbd67c6-4a48-4c5a-a615-b9b202771a62"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 146.05)
+		(size 48.26 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9521c3b9-924c-4b2d-a2ed-3c6dfe29d29f")
+		(property "Sheetname" "FPGA_Bank_14_15"
+			(at 20.32 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_Bank_14_15.kicad_sch"
+			(at 20.32 182.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex_FPGA_Learning_and_Experimentation_Board"
+				(path "/d63828a1-e60f-4761-bf4b-7d9d4ca8a642/cfbd67c6-4a48-4c5a-a615-b9b202771a62"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 85.09)
+		(size 46.99 40.64)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d3867e6c-dc5a-4535-85e6-786ee9bfd102")
+		(property "Sheetname" "FPGA_Config"
+			(at 20.32 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA_Config.kicad_sch"
+			(at 20.32 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Flex_FPGA_Learning_and_Experimentation_Board"
+				(path "/d63828a1-e60f-4761-bf4b-7d9d4ca8a642/cfbd67c6-4a48-4c5a-a615-b9b202771a62"
+					(page "6")
+				)
+			)
+		)
+	)
+)

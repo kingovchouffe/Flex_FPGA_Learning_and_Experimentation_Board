@@ -285,6 +285,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -385,6 +386,34 @@
     [
       "d63828a1-e60f-4761-bf4b-7d9d4ca8a642",
       "Racine"
+    ],
+    [
+      "d4e3f519-a4f6-4b12-878d-0c4bfef464ee",
+      "Power"
+    ],
+    [
+      "cfbd67c6-4a48-4c5a-a615-b9b202771a62",
+      "FPGA"
+    ],
+    [
+      "a7d7b72c-ec51-43d4-a8b5-ec6d454f5164",
+      "IOs"
+    ],
+    [
+      "5866716e-66c5-4643-8de4-7dc2b0b6d75c",
+      "FPGA_Power"
+    ],
+    [
+      "d3867e6c-dc5a-4535-85e6-786ee9bfd102",
+      "FPGA_Config"
+    ],
+    [
+      "9521c3b9-924c-4b2d-a2ed-3c6dfe29d29f",
+      "FPGA_Bank_14_15"
+    ],
+    [
+      "11e4d01a-adc0-4a17-be12-5316f0c1df3a",
+      "FPGA_Bank_34_35"
     ]
   ],
   "text_variables": {}
